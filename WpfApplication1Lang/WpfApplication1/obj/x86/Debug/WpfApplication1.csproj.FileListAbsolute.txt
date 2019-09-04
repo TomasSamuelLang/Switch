@@ -1,0 +1,5 @@
+C:\Users\albbla\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\albbla\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\albbla\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\albbla\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\albbla\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
